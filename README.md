@@ -9,9 +9,9 @@ The 5 stages are Instruction Fetching (IF), Instruction Decoding (ID), Execution
 
 The U235 SOC is provided for complete processor functions. There are two kind of SOC configurations: DAM-based version and cache-based version. The Directly Accessed Memory (DAM) is connected to core directly and can be accessed with fixed delay (like the tightly coupled memory of ARM). The DAM-based SOC is usually used for size-limited applications as the memory cannot be extended arbitrarily. In contrast, the cache-based SOC (to be implemented) can be used for larger applications with multi-level memory system.
 
-![alt The DAM-based SOC](https://github.com/uni-v/uranium-235/blob/master/doc/pics/uv_soc_arch_dam_version.png "The DAM-based SOC")
+![alt The DAM-based SOC](./doc/pics/uv_soc_arch_dam_version.png "The DAM-based SOC")
 
-![alt The cache-based SOC](https://github.com/uni-v/uranium-235/blob/master/doc/pics/uv_soc_arch_cache_version.png "The cache-based SOC")
+![alt The cache-based SOC](./doc/pics/uv_soc_arch_cache_version.png "The cache-based SOC")
 
 The U235 core is mainly focus on research and education purpose. It is allowed to be used commercially but should be verificated carefully.
 
