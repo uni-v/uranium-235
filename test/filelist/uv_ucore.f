@@ -1,0 +1,10 @@
+../../../design/core/uv_ucore.v
+../../../design/core/uv_ifu.v
+../../../design/core/uv_bpu.v
+../../../design/core/uv_idu.v
+../../../design/core/uv_exu.v
+../../../design/core/uv_alu.v
+../../../design/core/uv_lsu.v
+../../../design/core/uv_cmt.v
+../../../design/core/uv_csr.v
+../../../design/core/uv_regfile.v
