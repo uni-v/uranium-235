@@ -4,7 +4,7 @@
 *.o
 *.dump
 *.out
-*.hex
+#*.hex
 .*.swp
 *.pyc
 /autom4te.cache
